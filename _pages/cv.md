@@ -43,27 +43,18 @@ Calculate NDVI index using Google Earth Engine to create data for training.
  through bar charts, line graphs, and pie charts.
  Built automation for data transfer, updating from an internal database, and export to Google Sheets.
  Co lected and Prepared data and created a Looker Studio dashboard to display insights.
-  
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programing
+  * Python
+  * C
+  * Java
+* Exxcel
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+
   
 Teaching
 ======
@@ -71,6 +62,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
