@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "real_profile.jpg"
   name             : "Woraphol Saeku"
   pronouns         : "He/Him"  
   bio              : "I am a fourth-year Computer Engineering student at KMUTT with a passion for technology, programming, and problem-solving. I am interested in software development, AI, and system optimization. I enjoy learning new technologies and working on innovative projects."
