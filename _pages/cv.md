@@ -50,7 +50,7 @@ Skills
   * Python
   * C
   * Java
-* Exxcel
+* Excel
 
 
   
