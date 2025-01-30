@@ -1,20 +1,12 @@
 ---
 title: "Teaching experience 1"
 collection: teaching
-type: "Undergraduate course"
+type: "ML course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Bangpakokwithayakom School, Sci-Math"
+date: 2024-08-010
+location: "Bangkok, Thailand"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Teach Data prepare and Machiene Learning to Matthayom 5 student.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
