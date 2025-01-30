@@ -4,7 +4,7 @@ collection: teaching
 type: "ML course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Bangpakokwithayakom School, Sci-Math"
-date: 2024-08-010
+date: 2024-08-10
 location: "Bangkok, Thailand"
 ---
 
